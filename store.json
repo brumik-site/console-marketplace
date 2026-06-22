@@ -26,6 +26,6 @@
   {
     "name": "No App",
     "version": "1.0",
-    "download": "example.com"
+    "download": "https://example.com"
   }
 ]
