@@ -1,2 +1,2 @@
 # console-marketplace
-Markket place for Bruno Console OS
+Market place for Bruno Console OS
