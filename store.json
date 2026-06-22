@@ -18,5 +18,10 @@
     "name": "SearchEngine",
     "version": "1.0",
     "download": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/SearchEngine.app.zip"
+  },
+  {
+    "name": "No App",
+    "version": "1.0",
+    "download": "example.com"
   }
 ]
