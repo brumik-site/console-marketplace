@@ -1,6 +1,0 @@
-{
-    "name": "Test App",
-    "author": "Bruno Vaněrek",
-    "version": "1.0",
-    "exec": "main.py"
-}
