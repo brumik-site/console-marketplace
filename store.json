@@ -2,22 +2,26 @@
   {
     "name": "Test App",
     "version": "1.0",
-    "download": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/Test.app.zip"
+    "download": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/Test App/Test.app.zip",
+    "thumbnail": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/Test App/thumbnail.png"
   },
   {
     "name": "MineBuild",
     "version": "1.0",
-    "download": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/MineBuild.app.zip"
+    "download": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/MineBuild/MineBuild.app.zip",
+    "thumbnail": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/MineBuild/thumbnail.png"
   },
   {
     "name": "Youtube",
     "version": "1.0",
-    "download": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/Youtube.app.zip"
+    "download": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/Youtube/Youtube.app.zip",
+    "thumbnail": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/Youtube/thumbnail.png"
   },
   {
     "name": "SearchEngine",
     "version": "1.0",
-    "download": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/SearchEngine.app.zip"
+    "download": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/SearchEngine/SearchEngine.app.zip",
+    "thumbnail": "https://raw.githubusercontent.com/brumik-site/console-marketplace/main/apps/SearchEngine/thumbnail.png"
   },
   {
     "name": "No App",
